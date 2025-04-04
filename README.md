@@ -1,9 +1,13 @@
 Project Overview
+
 The Hiring Assistant Chatbot is an AI-driven application designed to streamline the initial stages of the recruitment process. It interacts with candidates to gather essential information, assesses their technical expertise through tailored questions, and ensures data privacy by anonymizing sensitive details. This chatbot aims to enhance the efficiency of hiring by automating preliminary screenings and providing consistent evaluations.
 
+
 Installation Instructions
+
 To set up and run the Hiring Assistant Chatbot locally, follow these steps:
 Clone the Repository:
+
 git clone surajmungath/hiring-assistant-chatbot.git
 cd hiring-assistant-chatbot
 
@@ -29,6 +33,8 @@ Python -m streamlit run app.py
 
 
 Usage Guide
+
+
 Start the Application: Launch the chatbot using the instructions above.
 
 
@@ -42,6 +48,8 @@ Completion: After answering the questions, the chatbot will conclude the session
 
 
 Technical Details
+
+
 Programming Language: Python
 Framework: Streamlit for the web interface
 AI Model: Gemini API for generating technical questions
